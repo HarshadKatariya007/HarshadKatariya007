@@ -1,10 +1,10 @@
-<img align="center" alt="Coding" width="100%" src="https://camo.githubusercontent.com/4888a7735a855f30f6255ac7e770b79d4dfc48fcc640888df9d7085bd7df899a/68747470733a2f2f747566757475726f2e636c2f77702d636f6e74656e742f75706c6f6164732f323032302f30322f426c6f672d506f73742d477261706869632d486f772d746f2d64657369676e2d7468652d706572666563742d4d4d535f6769662e676966">
+<img align="center" alt="Coding" width="100%" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
 
 <h1 align="center">Hi 👋, I'm Harshad Katariya</h1>
 <h3 align="center">A Passionate Web Designer & Back-End Developer From India</h3>
 
-<img align="right" height="400" src="https://camo.githubusercontent.com/284871a0df858a1bb89132db5a1a20d4711c2b65955877ad4d382b90a64ff8c2/68747470733a2f2f676966732e65636f2e62722f77702d636f6e74656e742f75706c6f6164732f323032322f30372f676966732d64652d61756469746f7269612d32332e676966">
+<img align="right" height="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" style="border-radius=10px ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshadkatariya007&label=Profile%20views&color=0e75b6&style=flat" alt="harshadkatariya007" /> </p>
 
