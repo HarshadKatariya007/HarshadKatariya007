@@ -15,7 +15,7 @@
 - 📫 How to reach me **harshad2043@gmail.com**
 
 - ⚡ Fun fact **I Am Funny**
-
+- 😎 My Hobby :- Cricket
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/5984harshad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="5984harshad" height="30" width="40" /></a>
