@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Harshad Katariya</h1>
-<h3 align="center">A Passionate Web Designer & Back-End Developer From India</h3>
+<h3 align="center">A Passionate Back-End Developer From India</h3>
 
 <img align="center" alt="Coding" width="100%" style="mix-blend-mode:color-burn" src="https://miro.medium.com/v2/resize:fit:1358/1*9m-WDdL_ji01bGbjEnutEw.gif">
 
